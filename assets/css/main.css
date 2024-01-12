@@ -2595,6 +2595,11 @@ input, select, textarea {
 			line-height: 1.5em;
 			margin: 0;
 		}
+		.work-item ul {
+			font-size: 0.8em;
+			line-height: 1.5em;
+			margin: 0;
+		}
 
 /* Header */
 
