@@ -52,7 +52,7 @@ Recently graduated from Penn State University with a Masters in Informatics. I a
         <div class="row justify-content-left">
           <ul class="lower-font-size">
           <h4>Experience</h4>
-          <li>Statstical Researcher<br>Penn State University<br>2023-Present</li>
+          <li>Statistical Researcher<br>Penn State University<br>2023-Present</li>
           <li>Software Development Engineer<br>Tummee.com<br>2021-2022</li>
           <li>Machine Learning Engineer<br>Trinity College Dublin<br>2019-2021</li>
         </div>

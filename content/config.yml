@@ -4,7 +4,7 @@
 
 title: # the website title (if blank, full name will be used instead)
 first_name: Manan 
-middle_name: 
+middle_name: ""
 last_name: Saxena 
 description: "My personal website with interests, projects, and publications."
 footer_text: Design based on al-folio adapted for Pelican. 
