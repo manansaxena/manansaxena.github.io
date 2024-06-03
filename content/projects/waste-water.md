@@ -28,20 +28,20 @@ Provided By: National Wastewater Surveillance System
 
 -  **Data Plot**: Plot of SARS-CoV-2 concentrations in wastewater across two years 
 
-    <img src="images/wastewater-forecast/wastewater_data_plot.png" width="600" height="300" />
+    <img src="images/wastewater_data_plot.png" width="600" height="300" />
 
 -   **Timeseries Decomposition**: Season-Trend decomposition of the timseries data
 
-    <img src="images/wastewater-forecast/timeseries_decomposition.png" width="600" height="300" />
+    <img src="images/timeseries_decomposition.png" width="600" height="300" />
 
 -   **Train Test Split**: Splitting the data for training and testing
 
-    <img src="images/wastewater-forecast/train_test_split.png" width="600" height="300" />
+    <img src="images/train_test_split.png" width="600" height="300" />
 
 -   **Prophet Forecast**: Prophet forecast with actual observations, changepoints and comparison with naive forecast
 
-    <img src="images/wastewater-forecast/prophet_forecast_obs.png" width="600" height="300" />
+    <img src="images/prophet_forecast_obs.png" width="600" height="300" />
 
 -   **Model Components**: Time series components learnt by Prophet Model
 
-    <img src="images/wastewater-forecast/model_components.png" width="600" height="300" />
+    <img src="images/model_components.png" width="600" height="300" />
