@@ -28,20 +28,40 @@ Provided By: National Wastewater Surveillance System
 
 -  **Data Plot**: Plot of SARS-CoV-2 concentrations in wastewater across two years 
 
-    <img src="images/wastewater_data_plot.png" width="600" height="300" />
+!TEMPLATE!
+<div class="d-flex justify-content-center align-items-center mx-auto">
+    {{ figure(path="images/wastewater-forecast/wastewater_data_plot.png",width="600px", height="300px", title="Plot of SARS-CoV-2 concentrations in wastewater across two years", class="img-fluid rounded z-depth-1") }}
+</div>
+!TEMPLATE!
 
--   **Timeseries Decomposition**: Season-Trend decomposition of the timseries data
+-   **Timeseries Decomposition**: Season-Trend decomposition of the timeseries data
 
-    <img src="images/timeseries_decomposition.png" width="600" height="300" />
+!TEMPLATE!
+<div class="d-flex justify-content-center align-items-center mx-auto">
+    {{ figure(path="images/wastewater-forecast/timeseries_decomposition.png",width="600px", height="300px",title="Season-Trend decomposition of the timeseries data", class="img-fluid rounded z-depth-1") }}
+</div>
+!TEMPLATE!
 
 -   **Train Test Split**: Splitting the data for training and testing
 
-    <img src="images/train_test_split.png" width="600" height="300" />
+!TEMPLATE!
+<div class="d-flex justify-content-center align-items-center mx-auto">
+    {{ figure(path="images/wastewater-forecast/train_test_split.png",width="600px", height="300px",title="Splitting the data for training and testing", class="img-fluid rounded z-depth-1") }}
+</div>
+!TEMPLATE!
 
 -   **Prophet Forecast**: Prophet forecast with actual observations, changepoints and comparison with naive forecast
 
-    <img src="images/prophet_forecast_obs.png" width="600" height="300" />
+!TEMPLATE!
+<div class="d-flex justify-content-center align-items-center mx-auto">
+    {{ figure(path="images/wastewater-forecast/prophet_forecast_obs.png",width="600px", height="300px",title="Prophet forecast with actual observations, changepoints and comparison with naive forecast", class="img-fluid rounded z-depth-1") }}
+</div>
+!TEMPLATE!
 
 -   **Model Components**: Time series components learnt by Prophet Model
 
-    <img src="images/model_components.png" width="600" height="300" />
+!TEMPLATE!
+<div class="d-flex justify-content-center align-items-center mx-auto">
+    {{ figure(path="images/wastewater-forecast/model_components.png",width="600px", height="300px",title="Time series components learnt by Prophet Model", class="img-fluid rounded z-depth-1") }}
+</div>
+!TEMPLATE!
