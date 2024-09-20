@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 talks: false # includes latest talks
 ---
 
-Recently graduated from Penn State University with a Masters in Informatics. I am currently working with [<u>Prof. Justin Silverman</u>](http://www.justin-silverman.com/) on <b>"Scalable Bayesian Inference for generalized multivariate time-series models"</b> towards submission to <b>39th AAAI Conference on Artificial Intelligence</b>. 
+Recently graduated from Penn State University with a Masters in Informatics. I am currently working with [<u>Prof. Justin Silverman</u>](http://www.justin-silverman.com/) on <b>"Scalable Inference for Bayesian Multinomial Logistic-Normal Dynamic Linear Models"</b>.
 
 <style>
   .lower-font-size li {
@@ -52,9 +52,9 @@ Recently graduated from Penn State University with a Masters in Informatics. I a
         <div class="row justify-content-left">
           <ul class="lower-font-size">
           <h4>Experience</h4>
-          <li>Statistical Researcher<br>Penn State University<br>2023-Present</li>
+          <li>Data Scientist<br>Penn State University<br>2023-Present</li>
           <li>Software Development Engineer<br>Tummee.com<br>2021-2022</li>
-          <li>Machine Learning Engineer<br>Trinity College Dublin<br>2019-2021</li>
+          <li>Data Scientist<br>Trinity College Dublin<br>2019-2021</li>
         </div>
         </ul> 
       </div>

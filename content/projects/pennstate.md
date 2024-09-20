@@ -1,9 +1,9 @@
 ---
 cardtitle: Penn State University
-cardsummary: "My work as a statistical researcher with <a href='http://www.justin-silverman.com/'><u>Prof. Justin Silverman</u></a> at Penn State University on Scalable Bayesian Inference For Generalized Multivariate Time-Series Models"
-title: Scalable Bayesian Inference For Generalized Multivariate Time-Series Models
+cardsummary: "My work as a Data Scientist with <a href='http://www.justin-silverman.com/'><u>Prof. Justin Silverman</u></a> at Penn State University on Scalable Inference for Bayesian Multinomial Logistic-Normal Dynamic Linear Models"
+title: Scalable Inference for Bayesian Multinomial Logistic-Normal Dynamic Linear Models
 template: page
-summary: "My work as a statistical researcher with <a href='http://www.justin-silverman.com/'><u>Prof. Justin Silverman</u></a> at Penn State University towards submission to <b>39th AAAI Conference on Artificial Intelligence</b>"
+summary: "My work as a Data Scientist with <a href='http://www.justin-silverman.com/'><u>Prof. Justin Silverman</u></a> at Penn State University"
 img: images/penn-state.jpg
 importance: 1
 category: work

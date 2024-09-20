@@ -1,9 +1,9 @@
 ---
 cardtitle: Trinity College Dublin
-cardsummary: "My work as a Machine Learning Engineer on automation of injury prediction in collision sports and rehabilitation with a collaboration between <a href='https://www.csimmslab.com/research-group/prof-ciaran-simms'><u>Simms Lab</u></a>, <a href='https://v-sense.scss.tcd.ie/'><u>V-SENSE</u></a>, and Leinster Rugby at Trinity College Dublin. "
+cardsummary: "My work as a Data Scientist on automation of injury prediction in collision sports and rehabilitation with a collaboration between <a href='https://www.csimmslab.com/research-group/prof-ciaran-simms'><u>Simms Lab</u></a>, <a href='https://v-sense.scss.tcd.ie/'><u>V-SENSE</u></a>, and Leinster Rugby at Trinity College Dublin. "
 title: Injury Prediction in Collision Sports and Rehabilitation
 template: page
-summary: "My work as a Machine Learning Engineer on automation of injury prediction in collision sports and rehabilitation with a collaboration between <a href='https://www.csimmslab.com/research-group/prof-ciaran-simms'><u>Simms Lab</u></a>, <a href='https://v-sense.scss.tcd.ie/'><u>V-SENSE</u></a>, and Leinster Rugby at Trinity College Dublin."
+summary: "My work as a Data Scientist on automation of injury prediction in collision sports and rehabilitation with a collaboration between <a href='https://www.csimmslab.com/research-group/prof-ciaran-simms'><u>Simms Lab</u></a>, <a href='https://v-sense.scss.tcd.ie/'><u>V-SENSE</u></a>, and Leinster Rugby at Trinity College Dublin."
 img: images/trinity.jpg
 importance: 3
 category: work

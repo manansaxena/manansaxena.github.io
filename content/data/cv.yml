@@ -46,7 +46,7 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Statistical Researcher 
+    - title: Data Scientist
       institution: Penn State University
       year: May' 23 - Present
       description:
@@ -66,7 +66,7 @@
         - Directed UI/UX refinement project, integrating customer feedback collected during interactions and general feedback.
         - Developed REST API endpoints in webapp2 framework integrated with Google App Engine and Google Datastore. Built UIs using Bootstrap and handled dynamic behavior with JavaScript and jQuery.
         - Wrote scripts to automate the restructuring of legacy data using Google Sheets API.
-    - title: Machine Learning Engineer
+    - title: Data Scientist
       institution: Trinity College Dublin
       year: June' 19 - July' 21
       description:
