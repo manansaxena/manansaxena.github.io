@@ -21,10 +21,9 @@ Scalable Inference for Bayesian Multinomial Logistic-Normal Dynamic Linear Model
 
 Teaching
 ------
-| Course Number | Title |
-| -------- | ------- |
-| DS340W | Applied Data Sciences  |
-| IST432 | Legal and Regulatory Environment of Information Science and Technology |
+
+- Applied Data Sciences **(DS340W)**
+- Legal and Regulatory Environment of Information Science and Technology **(IST432)** 
 
 Publications and Preprints
 ------

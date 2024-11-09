@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Informatics (Data Science), Pennsylvania State University, 2027 (expected)
+* M.S. in Informatics (Data Science), Pennsylvania State University, 2024
+* B.Tech. in Software Engineering, Delhi Technological University (erstwhile Delhi College of Engineering), 2020
 
 Work experience
 ======
