@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-# title                    : "Manan Saxena"
+title                    : "Manan Saxena"
 title_separator          : "-"
 name                     : &name "Manan Saxena"
 description              : &description "Personal Website"
