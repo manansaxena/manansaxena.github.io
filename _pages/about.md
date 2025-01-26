@@ -30,7 +30,7 @@ Publications and Preprints
 ------
 
 ### Scalable Inference for Bayesian Multinomial Logistic-Normal Dynamic Linear Models
-Manan Saxena, Tinghua Chen, Justin D Silverman
+Manan Saxena, Tinghua Chen, Justin D Silverman  
 *Accepted in 28th International conference on artificial intelligence and statistics (AISTATS 2025).*  
 [[ArXiv](https://arxiv.org/pdf/2410.05548), [Fenrir code](https://github.com/manansaxena/fenrir), [Paper Code](https://github.com/manansaxena/fenrir_paper_code)]
 
