@@ -19,7 +19,7 @@ My CV can be found [here](../files/Resume.pdf).
 
 Talks
 ------
-Causal Representation Learning **(July 2025)**
+Causal Representation Learning **(July 2025)**  
 *Data Science Team, Hartford Steam Boiler (Munich Re)*
 
 Scalable Inference for Bayesian Multinomial Logistic-Normal Dynamic Linear Model **(Oct 2024)**   
