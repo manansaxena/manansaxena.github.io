@@ -7,16 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D. Student at the [Silverman Lab](https://jsilve24.github.io/SilvermanLab/) in the College of Information Sciences and Technology at [Pennsylvania State University](https://ist.psu.edu/), advised by [Dr. Justin Silverman](http://www.justin-silverman.com/). My research focuses on developing fast and interpretable Bayesian time series models for microbial and financial data. Additionally, I am exploring conditional generative models, their applications in conformal prediction, and their statistical properties.
+I am a Ph.D. student at the [Silverman Lab](https://jsilve24.github.io/SilvermanLab/) in the College of Information Sciences and Technology at [Pennsylvania State University](https://ist.psu.edu/), advised by [Dr. Justin Silverman](http://www.justin-silverman.com/). My research focuses on developing robust machine learning models using ideas from Bayesian inference and causal learning, with a current emphasis on understanding omitted variable bias in predictive models. Previously, I worked on scalable Bayesian time series models for multivariate count data, commonly encountered in microbiome studies and econometrics.
 
-Previously, I was a Software Engineer at [Tummee.com](https://www.tummee.com/), focusing on end-to-end software development and user experience optimization. Before that, I worked as a Machine Learning Engineer at [Trinity College Dublin](https://www.tcd.ie/) under [Dr. Ciaran Simms](https://www.tcd.ie/mecheng/staff/csimms/), [Dr. Aljosa Smolic](https://www.hslu.ch/en/lucerne-university-of-applied-sciences-and-arts/about-us/people-finder/profile/?pid=5280) and [Dr. Richard Blythman](https://ie.linkedin.com/in/richard-blythman-64b2b948), where I developed deep learning models and automated pipelines for predictive analytics and sports injury prevention.
+Most recently, I completed a Data Science internship at Hartford Steam Boiler (Munich Re) as part of the Data Science Insurance Team, under the mentorship of [Dr. Yue Tang](https://www.linkedin.com/in/yue-tang-8730012a). There, I developed predictive models for claim severity by combining probabilistic and machine learning approaches, leveraging features extracted from unstructured claim notes using large language models.
 
-I hold a master's degree in Informatics (Data Science) from [Pennsylvania State University](https://ist.psu.edu/) and a bachelor's degree in Software Engineering from [Delhi Technological University](http://dtu.ac.in/) (formerly Delhi College of Engineering) in India.
- 
-My CV can be found [here](../files/resume.pdf).
+Before my doctoral studies, I worked as a Software Engineer at [Tummee.com](https://www.tummee.com/), focusing on end-to-end software development and user experience optimization. Earlier, I was a Machine Learning Researcher at [Trinity College Dublin](https://www.tcd.ie/), where I collaborated with [Dr. Ciaran Simms](https://www.tcd.ie/mecheng/staff/csimms/), [Dr. Aljosa Smolic](https://www.hslu.ch/en/lucerne-university-of-applied-sciences-and-arts/about-us/people-finder/profile/?pid=5280), and [Dr. Richard Blythman](https://ie.linkedin.com/in/richard-blythman-64b2b948) on deep learning models and automated pipelines for predictive analytics and sports injury prevention.
+
+I hold a master’s degree in Informatics (Data Science) from [Pennsylvania State University](https://ist.psu.edu/) and a bachelor’s degree in Software Engineering from [Delhi Technological University](http://dtu.ac.in/) (formerly Delhi College of Engineering), India.
+
+My CV can be found [here](../files/Resume.pdf).
 
 Talks
 ------
+Causal Representation Learning **(July 2025)**
+*Data Science Team, Hartford Steam Boiler (Munich Re)*
+
 Scalable Inference for Bayesian Multinomial Logistic-Normal Dynamic Linear Model **(Oct 2024)**   
 *Bioinformatics Method Developers Community Day, Center for Computational Biology and Bioinformatics, Pennsylvania State University*
 
